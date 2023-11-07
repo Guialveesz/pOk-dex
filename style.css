@@ -1,0 +1,32 @@
+.row {
+  border: solid white;
+}
+
+.col-4 {
+  border: solid;
+  color: aliceblue;
+}
+
+body {
+  background-color: rgb(184, 34, 34);
+}
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+img {
+  padding: 35px;
+  border-radius: 35%;
+}
+
+p {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#p {
+  padding-right: 50px;
+  background-color: yellow;
+}
